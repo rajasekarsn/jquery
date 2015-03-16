@@ -1,6 +1,6 @@
 [jQuery](http://jquery.com/) — New Wave JavaScript
 ==================================================
-
+This is pointless change...
 Contribution Guides
 --------------------------------------
 
